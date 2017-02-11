@@ -1,0 +1,33 @@
+h1 {
+color:#00BFFF;
+font-family:Aharoni;
+}
+p {
+color:#086A87;
+}
+h2 {
+color:#DF7401;
+font-family:Aharoni;
+}
+p {
+color:#086A87;
+}
+body {
+	background-color:#A9F5E1;
+	}
+	
+ul{
+	list-style-type:square;
+	
+	
+}
+img{
+	width:150px;
+}
+
+div{
+	text-align:center;
+}
+
+li {font-weight:bold;
+}
